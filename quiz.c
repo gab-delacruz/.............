@@ -42,7 +42,7 @@ int main(){
 
     }
 
-    printf("DONE! Your score is %d/5", score);
+    printf("DONE! Your score is %d/5 WOOWWWW!12", score);
 
     return 0;
 }
