@@ -2,8 +2,7 @@
 
 int main(){
 
-    printf("Hello World, Version 2\n");
-    printf("Hello World, Version 3\n");
+    printf("Hello World\n");
 
     return 0;
 }
