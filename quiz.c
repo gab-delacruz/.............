@@ -3,7 +3,7 @@
 
 int main(){
 
-    char questions[][500] = {"Who is a hedgehog?",
+    char questions[][500] = {"Who is a hedgehog? AHJHAJDSAJDSFDHJFDFHK",
                         "How many legs does Play have?", 
                         "What is the strongest form of Alrou?", 
                         "What is the name of Spidee-Man's best duo?", 
